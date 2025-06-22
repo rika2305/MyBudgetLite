@@ -1,4 +1,4 @@
-# flutter_application_1
+# MyBudgetLite
 
 A new Flutter project.
 
