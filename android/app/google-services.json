@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "680625362891",
+    "project_id": "my-budget-lite",
+    "storage_bucket": "my-budget-lite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680625362891:android:7c8449f33282f75f0d884e",
+        "android_client_info": {
+          "package_name": "com.example.my_budget_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8HgZNPw79uCK-IFUIi1O4HD_9IiMjClI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680625362891:android:bad27c3fb51401d30d884e",
+        "android_client_info": {
+          "package_name": "com.example.mybudgetlite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8HgZNPw79uCK-IFUIi1O4HD_9IiMjClI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
